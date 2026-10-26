@@ -1,10 +1,10 @@
+![Spatial Inequities in Residential Energy Burden and HEAP Service Accessibility](assets/cover.png)
+
 # Spatial Inequities in Residential Energy Burden and HEAP Service Accessibility
 
 A census-tract GIS analysis of where household energy burden clusters in Los Angeles County and how far those communities are from energy assistance (HEAP/LIHEAP) centers.
 
 *Academic project, Carnegie Mellon University, Fall 2025.* Full write-up: [`report/LA_County_Energy_Burden_Report.pdf`](report/LA_County_Energy_Burden_Report.pdf)
-
-![Residential energy burden hot spots and HEAP locations](figures/reb_hotspots_map.jpg)
 
 ## Key findings
 
