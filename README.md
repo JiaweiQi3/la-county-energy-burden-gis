@@ -1,4 +1,4 @@
-![Spatial Inequities in Residential Energy Burden and HEAP Service Accessibility](assets/cover.png)
+![Spatial Inequities in Residential Energy Burden and HEAP Service Accessibility](figures/cover.png)
 
 # Spatial Inequities in Residential Energy Burden and HEAP Service Accessibility
 
